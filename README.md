@@ -10,6 +10,11 @@ Software engineer in London. Builds small, sharp developer tools.
 
 </div>
 
----
+![](rule.svg)
 
-**Currently building:** [`boe-mcp`](https://github.com/moureauf/boe-mcp) — an MCP server exposing Bank of England base-rate data to Claude.
+|  |  |
+|---|---|
+| `based`    | London |
+| `work`     | Software engineer |
+| `building` | [`boe-mcp`](https://github.com/moureauf/boe-mcp) + a small family of personal-data MCP servers |
+
