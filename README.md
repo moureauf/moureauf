@@ -10,11 +10,8 @@ Software engineer in London. Builds small, sharp developer tools.
 
 </div>
 
-![](rule.svg)
+---
 
-|  |  |
-|---|---|
-| `based`    | London |
-| `work`     | Software engineer |
-| `building` | [`boe-mcp`](https://github.com/moureauf/boe-mcp) + a small family of personal-data MCP servers |
-
+- **based** — London
+- **work** — Software engineer
+- **building** — [`boe-mcp`](https://github.com/moureauf/boe-mcp) + a small family of personal-data MCP servers
