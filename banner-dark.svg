@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220">
+  <style>
+    .ink    { fill: #ECE7DA; }
+    .muted  { fill: #9C947F; }
+    .name   { font-family: -apple-system, "Helvetica Neue", "Segoe UI", Arial, sans-serif;
+              font-size: 46px; font-weight: 600; letter-spacing: -0.02em; }
+    .tag    { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+              font-size: 13px; letter-spacing: 0.18em; }
+  </style>
+  <rect width="960" height="220" fill="#16140E"/>
+  <text x="48" y="100" class="name ink">François Moureau</text>
+  <text x="49" y="136" class="tag muted">SOFTWARE ENGINEER · LONDON</text>
+  <rect x="48" y="160" width="64" height="3" rx="1.5" fill="#E08A4E"/>
+  <rect x="116" y="160" width="796" height="3" rx="1.5" fill="#302B20"/>
+</svg>
