@@ -5,10 +5,6 @@
   </picture>
 </a>
 
-[![Website](https://img.shields.io/badge/site-francoismoureau.com-A8431B?style=flat-square)](https://francoismoureau.com)
-[![npm](https://img.shields.io/badge/npm-fmoureau-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~fmoureau)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fmoureau-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/fmoureau)
-
-- **based** — London
-- **work** — Software engineer
-- **building** — [`boe-mcp`](https://github.com/moureauf/boe-mcp) + a small family of personal-data MCP servers
+[![GitHub](https://img.shields.io/badge/-moureauf-1B1913?style=flat-square&logo=github&logoColor=EEECE4)](https://github.com/moureauf)
+[![npm](https://img.shields.io/badge/-fmoureau-1B1913?style=flat-square&logo=npm&logoColor=EEECE4)](https://www.npmjs.com/~fmoureau)
+[![LinkedIn](https://img.shields.io/badge/-fmoureau-1B1913?style=flat-square&logo=linkedin&logoColor=EEECE4)](https://uk.linkedin.com/in/fmoureau)
